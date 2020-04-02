@@ -8,6 +8,7 @@ body{
     min-height: 200px;
 
 }
+
 .pointer{
 	position: absolute;
 	top: 50%;
@@ -171,6 +172,18 @@ section{
 .contact{
 	min-height: 800px;
 }
+/*canvas*/
+.drag{
+	position: absolute; 
+	left: 920px;
+	border: none;
+}
+#canvasKu{
+	position: relative;
+	left: 202px;
+	bottom: 30px;
+}
+
 
 footer{
 	position: absolute;
